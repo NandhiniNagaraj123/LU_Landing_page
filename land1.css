@@ -1,0 +1,57 @@
+.container-fluid{
+    width:100%;
+    height: 100vh; 
+    box-shadow: 10px 0px 15px rgba(20, 30, 0, 1),-10px 0px 15px rgba(20, 30, 0, 1.6);
+    background:linear-gradient(rgba(38, 223, 50, 0.1),rgba(20, 30, 0, 1.6)),url('./green-gradient-wavy-background_23-2149140692.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+   
+    width:100%;
+    height: 100vh;
+    box-shadow: 0px 2px 5px rgba(235, 31, 31, 0.1);
+    background-color: rgba(0, 0, 0, 0.399);
+   
+}
+
+
+.text-content{ 
+    font-size: 10px;
+    font-weight: 3em;
+    text-shadow: 1px 1px red;
+    color: whitesmoke;
+    padding: 5px;
+    margin:100px;
+    align-items:center;
+}
+.bold-class{
+    text-shadow: 1px 1px red;
+    font-size: 20px;
+    font-weight: 3em;
+    color: whitesmoke;
+}
+
+.navbar{
+    
+    background-color: rgba(0,0 ,0,0.1);
+    box-shadow: 0px 2px 5px rgba(0,0 ,0,0.4);
+}
+
+.nav-item{
+    text-shadow: 1px 1px red;
+    color: whitesmoke;
+    font-size: 10px;
+}
+.navbar-nav{
+ margin-left: auto;
+    
+}
+
+.btn{
+ margin: 10px;
+ font-size:10px;
+ font-weight: 1.8rem;
+ color:whitesmoke;
+}
